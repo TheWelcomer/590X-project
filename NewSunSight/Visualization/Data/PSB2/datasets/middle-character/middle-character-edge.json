@@ -1,0 +1,15 @@
+{"input1":"Q","output1":"Q"}
+{"input1":" ","output1":" "}
+{"input1":"$","output1":"$"}
+{"input1":"E9","output1":"E9"}
+{"input1":")b","output1":")b"}
+{"input1":"DOG","output1":"O"}
+{"input1":"OGD","output1":"G"}
+{"input1":"test","output1":"es"}
+{"input1":"$3^:1","output1":"^"}
+{"input1":"middle","output1":"dd"}
+{"input1":"      ","output1":"  "}
+{"input1":"hi  ~1","output1":"  "}
+{"input1":"  hi~1","output1":"hi"}
+{"input1":"hi~1  ","output1":"~1"}
+{"input1":"testing","output1":"t"}
